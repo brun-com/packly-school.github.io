@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Backpacks",
+    "icon": "🎒",
+    "description": "Everyday bags, school packs and tech-ready backpacks",
+    "background": "linear-gradient(135deg,#ff5f6d,#ffc371)"
+  },
+  {
+    "name": "Lunch Bags",
+    "icon": "🍱",
+    "description": "Insulated lunch bags, boxes and snack storage",
+    "background": "linear-gradient(135deg,#14b8a6,#22d3ee)"
+  },
+  {
+    "name": "Pens & Writing",
+    "icon": "🖊️",
+    "description": "Pens, pencils, markers and highlighters",
+    "background": "linear-gradient(135deg,#7c3aed,#ec4899)"
+  },
+  {
+    "name": "Notebooks",
+    "icon": "📓",
+    "description": "Spiral notebooks, journals and note sets",
+    "background": "linear-gradient(135deg,#2563eb,#60a5fa)"
+  },
+  {
+    "name": "Bottles & Tumblers",
+    "icon": "🥤",
+    "description": "Reusable bottles, tumblers and travel cups",
+    "background": "linear-gradient(135deg,#0ea5e9,#22c55e)"
+  },
+  {
+    "name": "Books",
+    "icon": "📚",
+    "description": "Study guides, workbooks and reading essentials",
+    "background": "linear-gradient(135deg,#f59e0b,#ef4444)"
+  },
+  {
+    "name": "Geometry & Tools",
+    "icon": "📏",
+    "description": "Rulers, protractors and classroom tools",
+    "background": "linear-gradient(135deg,#06b6d4,#3b82f6)"
+  },
+  {
+    "name": "Pencil Cases",
+    "icon": "🧰",
+    "description": "Organizers and cases for daily supplies",
+    "background": "linear-gradient(135deg,#f97316,#f43f5e)"
+  },
+  {
+    "name": "Art Supplies",
+    "icon": "🎨",
+    "description": "Creative kits, colored pencils and craft supplies",
+    "background": "linear-gradient(135deg,#8b5cf6,#14b8a6)"
+  },
+  {
+    "name": "Tech Accessories",
+    "icon": "💻",
+    "description": "Sleeves, pouches and study tech accessories",
+    "background": "linear-gradient(135deg,#334155,#8b5cf6)"
+  }
+]
