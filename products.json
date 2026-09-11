@@ -1,14 +1,15 @@
 [
   {
     "sku": "PK-BAG-001",
-    "name": "Orbit School Backpack",
+    "name": "Orbit Everyday Backpack",
     "category": "Backpacks",
     "price": 39.99,
     "oldPrice": 49.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "🎒",
-    "description": "Orbit School Backpack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
+    "description": "Orbit Everyday Backpack is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BAG-002",
@@ -18,8 +19,9 @@
     "oldPrice": 44.99,
     "badge": "Popular",
     "rating": 4.8,
-    "icon": "🎒",
-    "description": "Campus Classic Backpack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1200&q=84",
+    "description": "Campus Classic Backpack is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BAG-003",
@@ -29,8 +31,9 @@
     "oldPrice": 54.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "🎒",
-    "description": "ColorBlock Student Pack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
+    "description": "ColorBlock Student Pack is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BAG-004",
@@ -38,21 +41,23 @@
     "category": "Backpacks",
     "price": 59.99,
     "oldPrice": 69.99,
-    "badge": "Tech",
+    "badge": "Tech Pick",
     "rating": 4.8,
-    "icon": "💻",
-    "description": "TechReady Laptop Backpack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1200&q=84",
+    "description": "TechReady Laptop Backpack is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BAG-005",
-    "name": "Mini Daypack",
+    "name": "Scholar Pro Backpack",
     "category": "Backpacks",
-    "price": 29.99,
-    "oldPrice": 34.99,
-    "badge": "Kids",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "badge": "Featured",
     "rating": 4.8,
-    "icon": "🎒",
-    "description": "Mini Daypack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
+    "description": "Scholar Pro Backpack is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-LCH-001",
@@ -62,8 +67,9 @@
     "oldPrice": 24.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "🍱",
-    "description": "FreshDay Insulated Lunch Bag is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
+    "description": "FreshDay Insulated Lunch Bag is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-LCH-002",
@@ -73,8 +79,9 @@
     "oldPrice": 21.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "🍱",
-    "description": "Bento Lunch Box is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Bento Lunch Box is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-LCH-003",
@@ -84,8 +91,9 @@
     "oldPrice": 16.99,
     "badge": "Popular",
     "rating": 4.8,
-    "icon": "🥪",
-    "description": "Snack & Go Bag is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Snack & Go Bag is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-LCH-004",
@@ -95,30 +103,33 @@
     "oldPrice": 29.99,
     "badge": "Featured",
     "rating": 4.8,
-    "icon": "🧃",
-    "description": "Cooler Lunch Tote is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Cooler Lunch Tote is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-WRT-001",
+    "name": "SmoothWrite Ballpoint Set",
+    "category": "Pens & Writing",
+    "price": 7.99,
+    "oldPrice": 10.99,
+    "badge": "Popular",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "SmoothWrite Ballpoint Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
+  },
+  {
+    "sku": "PK-WRT-002",
     "name": "Rainbow Gel Pen Set",
     "category": "Pens & Writing",
     "price": 9.99,
     "oldPrice": 12.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "🖊️",
-    "description": "Rainbow Gel Pen Set is a practical, colorful everyday school essential from PACKLY School."
-  },
-  {
-    "sku": "PK-WRT-002",
-    "name": "SmoothWrite Ballpoint Pack",
-    "category": "Pens & Writing",
-    "price": 7.99,
-    "oldPrice": 10.99,
-    "badge": "Popular",
-    "rating": 4.8,
-    "icon": "🖊️",
-    "description": "SmoothWrite Ballpoint Pack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Rainbow Gel Pen Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-WRT-003",
@@ -128,8 +139,9 @@
     "oldPrice": 11.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "✏️",
-    "description": "QuickClick Mechanical Pencils is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "QuickClick Mechanical Pencils is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-WRT-004",
@@ -139,8 +151,9 @@
     "oldPrice": 8.99,
     "badge": "Bright",
     "rating": 4.8,
-    "icon": "🖍️",
-    "description": "Neon Highlighter Set is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Neon Highlighter Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-WRT-005",
@@ -150,8 +163,9 @@
     "oldPrice": 14.99,
     "badge": "Creative",
     "rating": 4.8,
-    "icon": "🖍️",
-    "description": "FineLine Marker Set is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "FineLine Marker Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-NBK-001",
@@ -161,8 +175,9 @@
     "oldPrice": 8.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "📓",
-    "description": "Everyday Spiral Notebook is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
+    "description": "Everyday Spiral Notebook is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-NBK-002",
@@ -171,9 +186,10 @@
     "price": 12.99,
     "oldPrice": 15.99,
     "badge": "Value",
-    "rating": 4.6,
-    "icon": "📒",
-    "description": "College Ruled Notebook Set is a practical, colorful everyday school essential from PACKLY School."
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
+    "description": "College Ruled Notebook Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-NBK-003",
@@ -183,8 +199,9 @@
     "oldPrice": 14.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "📕",
-    "description": "Hardcover Study Journal is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
+    "description": "Hardcover Study Journal is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-NBK-004",
@@ -194,52 +211,69 @@
     "oldPrice": 12.99,
     "badge": "Colorful",
     "rating": 4.8,
-    "icon": "📚",
-    "description": "Bright Notes 5-Pack is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
+    "description": "Bright Notes 5-Pack is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TER-001",
+    "sku": "PK-NBK-005",
+    "name": "Project Planner Notebook",
+    "category": "Notebooks",
+    "price": 8.99,
+    "oldPrice": 11.99,
+    "badge": "Study",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
+    "description": "Project Planner Notebook is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
+  },
+  {
+    "sku": "PK-BTL-001",
     "name": "HydroPop Insulated Bottle",
     "category": "Bottles & Tumblers",
     "price": 24.99,
     "oldPrice": 29.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "🥤",
-    "description": "HydroPop Insulated Bottle is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
+    "description": "HydroPop Insulated Bottle is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TER-002",
+    "sku": "PK-BTL-002",
     "name": "Campus Stainless Tumbler",
     "category": "Bottles & Tumblers",
     "price": 21.99,
     "oldPrice": 27.99,
     "badge": "Popular",
     "rating": 4.8,
-    "icon": "🥤",
-    "description": "Campus Stainless Tumbler is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
+    "description": "Campus Stainless Tumbler is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TER-003",
+    "sku": "PK-BTL-003",
     "name": "Mini Sip Kids Bottle",
     "category": "Bottles & Tumblers",
     "price": 17.99,
     "oldPrice": 22.99,
     "badge": "Kids",
     "rating": 4.8,
-    "icon": "🧴",
-    "description": "Mini Sip Kids Bottle is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
+    "description": "Mini Sip Kids Bottle is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TER-004",
+    "sku": "PK-BTL-004",
     "name": "StudyBreak Travel Mug",
     "category": "Bottles & Tumblers",
     "price": 19.99,
     "oldPrice": 24.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "☕",
-    "description": "StudyBreak Travel Mug is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
+    "description": "StudyBreak Travel Mug is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BOK-001",
@@ -249,8 +283,9 @@
     "oldPrice": 18.99,
     "badge": "Essential",
     "rating": 4.8,
-    "icon": "📖",
-    "description": "Student Dictionary is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
+    "description": "Student Dictionary is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BOK-002",
@@ -260,8 +295,9 @@
     "oldPrice": 15.99,
     "badge": "Study",
     "rating": 4.8,
-    "icon": "📘",
-    "description": "Math Practice Workbook is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
+    "description": "Math Practice Workbook is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BOK-003",
@@ -271,8 +307,9 @@
     "oldPrice": 17.99,
     "badge": "Featured",
     "rating": 4.8,
-    "icon": "🔬",
-    "description": "Science Explorer Guide is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
+    "description": "Science Explorer Guide is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BOK-004",
@@ -282,8 +319,9 @@
     "oldPrice": 12.99,
     "badge": "Creative",
     "rating": 4.8,
-    "icon": "📔",
-    "description": "Creative Writing Journal is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
+    "description": "Creative Writing Journal is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-BOK-005",
@@ -293,85 +331,117 @@
     "oldPrice": 19.99,
     "badge": "Study",
     "rating": 4.8,
-    "icon": "🌎",
-    "description": "World History Study Guide is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
+    "description": "World History Study Guide is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-RUL-001",
+    "sku": "PK-GEO-001",
     "name": "Flexi 12-inch Ruler",
     "category": "Geometry & Tools",
     "price": 2.99,
     "oldPrice": 4.99,
     "badge": "Value",
-    "rating": 4.6,
-    "icon": "📏",
-    "description": "Flexi 12-inch Ruler is a practical, colorful everyday school essential from PACKLY School."
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "Flexi 12-inch Ruler is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-RUL-002",
+    "sku": "PK-GEO-002",
     "name": "Clear Geometry Set",
     "category": "Geometry & Tools",
     "price": 7.99,
     "oldPrice": 10.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "📐",
-    "description": "Clear Geometry Set is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "Clear Geometry Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-RUL-003",
+    "sku": "PK-GEO-003",
     "name": "Protractor & Angle Kit",
     "category": "Geometry & Tools",
     "price": 4.99,
     "oldPrice": 6.99,
     "badge": "Popular",
     "rating": 4.8,
-    "icon": "📐",
-    "description": "Protractor & Angle Kit is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "Protractor & Angle Kit is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-RUL-004",
+    "sku": "PK-GEO-004",
     "name": "30cm Metal Ruler",
     "category": "Geometry & Tools",
     "price": 5.99,
     "oldPrice": 7.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "📏",
-    "description": "30cm Metal Ruler is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "30cm Metal Ruler is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-ORG-001",
+    "sku": "PK-GEO-005",
+    "name": "Student Calculator",
+    "category": "Geometry & Tools",
+    "price": 12.99,
+    "oldPrice": 16.99,
+    "badge": "Study",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "Student Calculator is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
+  },
+  {
+    "sku": "PK-PEN-001",
     "name": "SnapZip Pencil Case",
     "category": "Pencil Cases",
     "price": 11.99,
     "oldPrice": 15.99,
     "badge": "Best Seller",
     "rating": 4.8,
-    "icon": "🖊️",
-    "description": "SnapZip Pencil Case is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "SnapZip Pencil Case is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-ORG-002",
+    "sku": "PK-PEN-002",
     "name": "Double Deck Organizer",
     "category": "Pencil Cases",
     "price": 14.99,
     "oldPrice": 18.99,
     "badge": "Popular",
     "rating": 4.8,
-    "icon": "🧰",
-    "description": "Double Deck Organizer is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Double Deck Organizer is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-ORG-003",
+    "sku": "PK-PEN-003",
     "name": "Clear Study Pouch",
     "category": "Pencil Cases",
     "price": 8.99,
     "oldPrice": 11.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "👜",
-    "description": "Clear Study Pouch is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Clear Study Pouch is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
+  },
+  {
+    "sku": "PK-PEN-004",
+    "name": "Canvas Pencil Roll",
+    "category": "Pencil Cases",
+    "price": 13.99,
+    "oldPrice": 17.99,
+    "badge": "Organize",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Canvas Pencil Roll is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-ART-001",
@@ -381,8 +451,9 @@
     "oldPrice": 15.99,
     "badge": "Creative",
     "rating": 4.8,
-    "icon": "🎨",
-    "description": "ColorBurst Colored Pencils is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
+    "description": "ColorBurst Colored Pencils is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-ART-002",
@@ -392,8 +463,9 @@
     "oldPrice": 17.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "🖌️",
-    "description": "Watercolor Pocket Set is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Watercolor Pocket Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-ART-003",
@@ -403,8 +475,9 @@
     "oldPrice": 21.99,
     "badge": "Featured",
     "rating": 4.8,
-    "icon": "🎨",
-    "description": "Sketch Starter Kit is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Sketch Starter Kit is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
     "sku": "PK-ART-004",
@@ -413,41 +486,45 @@
     "price": 7.99,
     "oldPrice": 9.99,
     "badge": "Value",
-    "rating": 4.6,
-    "icon": "✂️",
-    "description": "Craft Scissors Set is a practical, colorful everyday school essential from PACKLY School."
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Craft Scissors Set is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TECH-001",
+    "sku": "PK-TCH-001",
     "name": "CableKeeper Tech Pouch",
     "category": "Tech Accessories",
     "price": 15.99,
     "oldPrice": 19.99,
     "badge": "Smart Pick",
     "rating": 4.8,
-    "icon": "🔌",
-    "description": "CableKeeper Tech Pouch is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "CableKeeper Tech Pouch is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TECH-002",
+    "sku": "PK-TCH-002",
     "name": "Tablet Sleeve",
     "category": "Tech Accessories",
     "price": 22.99,
     "oldPrice": 28.99,
     "badge": "New",
     "rating": 4.8,
-    "icon": "💻",
-    "description": "Tablet Sleeve is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1800&q=84",
+    "description": "Tablet Sleeve is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   },
   {
-    "sku": "PK-TECH-003",
-    "name": "Compact Calculator",
+    "sku": "PK-TCH-003",
+    "name": "Desk Organizer Pouch",
     "category": "Tech Accessories",
-    "price": 12.99,
-    "oldPrice": 16.99,
-    "badge": "Study",
+    "price": 14.99,
+    "oldPrice": 18.99,
+    "badge": "Organize",
     "rating": 4.8,
-    "icon": "🧮",
-    "description": "Compact Calculator is a practical, colorful everyday school essential from PACKLY School."
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1600&q=84",
+    "description": "Desk Organizer Pouch is a practical school-day essential designed for organized, active routines.",
+    "details": "Designed for everyday student use • easy-care materials • practical storage"
   }
 ]

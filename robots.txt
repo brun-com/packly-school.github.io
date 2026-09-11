@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brun-com.github.io/packly-school/sitemap.xml

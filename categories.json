@@ -1,62 +1,52 @@
 [
   {
     "name": "Backpacks",
-    "icon": "🎒",
-    "description": "Everyday bags, school packs and tech-ready backpacks",
-    "background": "linear-gradient(135deg,#ff5f6d,#ffc371)"
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
+    "description": "From everyday school bags to laptop-ready packs."
   },
   {
     "name": "Lunch Bags",
-    "icon": "🍱",
-    "description": "Insulated lunch bags, boxes and snack storage",
-    "background": "linear-gradient(135deg,#14b8a6,#22d3ee)"
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Insulated bags, lunch boxes and snack storage."
   },
   {
     "name": "Pens & Writing",
-    "icon": "🖊️",
-    "description": "Pens, pencils, markers and highlighters",
-    "background": "linear-gradient(135deg,#7c3aed,#ec4899)"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Pens, pencils, markers and highlighters."
   },
   {
     "name": "Notebooks",
-    "icon": "📓",
-    "description": "Spiral notebooks, journals and note sets",
-    "background": "linear-gradient(135deg,#2563eb,#60a5fa)"
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
+    "description": "Spiral notebooks, journals and planners."
   },
   {
     "name": "Bottles & Tumblers",
-    "icon": "🥤",
-    "description": "Reusable bottles, tumblers and travel cups",
-    "background": "linear-gradient(135deg,#0ea5e9,#22c55e)"
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
+    "description": "Reusable bottles, tumblers and travel cups."
   },
   {
     "name": "Books",
-    "icon": "📚",
-    "description": "Study guides, workbooks and reading essentials",
-    "background": "linear-gradient(135deg,#f59e0b,#ef4444)"
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
+    "description": "Study guides, workbooks and reading essentials."
   },
   {
     "name": "Geometry & Tools",
-    "icon": "📏",
-    "description": "Rulers, protractors and classroom tools",
-    "background": "linear-gradient(135deg,#06b6d4,#3b82f6)"
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
+    "description": "Rulers, protractors, calculators and classroom tools."
   },
   {
     "name": "Pencil Cases",
-    "icon": "🧰",
-    "description": "Organizers and cases for daily supplies",
-    "background": "linear-gradient(135deg,#f97316,#f43f5e)"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
+    "description": "Organizers and cases for daily supplies."
   },
   {
     "name": "Art Supplies",
-    "icon": "🎨",
-    "description": "Creative kits, colored pencils and craft supplies",
-    "background": "linear-gradient(135deg,#8b5cf6,#14b8a6)"
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
+    "description": "Colored pencils, watercolors and creative kits."
   },
   {
     "name": "Tech Accessories",
-    "icon": "💻",
-    "description": "Sleeves, pouches and study tech accessories",
-    "background": "linear-gradient(135deg,#334155,#8b5cf6)"
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1800&q=84",
+    "description": "Tablet sleeves, tech pouches and organizers."
   }
 ]
