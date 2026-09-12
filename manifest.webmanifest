@@ -3,7 +3,7 @@
   "short_name": "PACKLY",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#edf2f8",
+  "background_color": "#eef3f9",
   "theme_color": "#14213d",
   "icons": [
     {

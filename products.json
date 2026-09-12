@@ -6,10 +6,10 @@
     "price": 39.99,
     "oldPrice": 49.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
-    "description": "Orbit Everyday Backpack is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1400&q=85",
+    "description": "Orbit Everyday Backpack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BAG-002",
@@ -19,9 +19,9 @@
     "oldPrice": 44.99,
     "badge": "Popular",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1200&q=84",
-    "description": "Campus Classic Backpack is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1400&q=85",
+    "description": "Campus Classic Backpack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BAG-003",
@@ -31,9 +31,9 @@
     "oldPrice": 54.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
-    "description": "ColorBlock Student Pack is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1400&q=85",
+    "description": "ColorBlock Student Pack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BAG-004",
@@ -43,9 +43,9 @@
     "oldPrice": 69.99,
     "badge": "Tech Pick",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1200&q=84",
-    "description": "TechReady Laptop Backpack is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1400&q=85",
+    "description": "TechReady Laptop Backpack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BAG-005",
@@ -54,10 +54,22 @@
     "price": 49.99,
     "oldPrice": 59.99,
     "badge": "Featured",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1400&q=85",
+    "description": "Scholar Pro Backpack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-BAG-006",
+    "name": "Commuter Study Pack",
+    "category": "Backpacks",
+    "price": 44.99,
+    "oldPrice": 54.99,
+    "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=84",
-    "description": "Scholar Pro Backpack is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1400&q=85",
+    "description": "Commuter Study Pack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-LCH-001",
@@ -66,10 +78,10 @@
     "price": 18.99,
     "oldPrice": 24.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
-    "description": "FreshDay Insulated Lunch Bag is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
+    "description": "FreshDay Insulated Lunch Bag is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-LCH-002",
@@ -79,9 +91,9 @@
     "oldPrice": 21.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
-    "description": "Bento Lunch Box is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Bento Lunch Box is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-LCH-003",
@@ -91,9 +103,9 @@
     "oldPrice": 16.99,
     "badge": "Popular",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
-    "description": "Snack & Go Bag is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Snack & Go Bag is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-LCH-004",
@@ -102,10 +114,22 @@
     "price": 22.99,
     "oldPrice": 29.99,
     "badge": "Featured",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Cooler Lunch Tote is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-LCH-005",
+    "name": "Double Deck Lunch Set",
+    "category": "Lunch Bags",
+    "price": 26.99,
+    "oldPrice": 32.99,
+    "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=84",
-    "description": "Cooler Lunch Tote is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Double Deck Lunch Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-WRT-001",
@@ -115,9 +139,9 @@
     "oldPrice": 10.99,
     "badge": "Popular",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "SmoothWrite Ballpoint Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "SmoothWrite Ballpoint Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-WRT-002",
@@ -126,10 +150,10 @@
     "price": 9.99,
     "oldPrice": 12.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "Rainbow Gel Pen Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "Rainbow Gel Pen Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-WRT-003",
@@ -139,9 +163,9 @@
     "oldPrice": 11.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "QuickClick Mechanical Pencils is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "QuickClick Mechanical Pencils is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-WRT-004",
@@ -151,9 +175,9 @@
     "oldPrice": 8.99,
     "badge": "Bright",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "Neon Highlighter Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "Neon Highlighter Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-WRT-005",
@@ -163,9 +187,21 @@
     "oldPrice": 14.99,
     "badge": "Creative",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "FineLine Marker Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "FineLine Marker Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-WRT-006",
+    "name": "Precision Fineliner Pack",
+    "category": "Pens & Writing",
+    "price": 10.99,
+    "oldPrice": 13.99,
+    "badge": "New",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "Precision Fineliner Pack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-NBK-001",
@@ -174,10 +210,10 @@
     "price": 6.99,
     "oldPrice": 8.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
-    "description": "Everyday Spiral Notebook is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1400&q=85",
+    "description": "Everyday Spiral Notebook is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-NBK-002",
@@ -187,9 +223,9 @@
     "oldPrice": 15.99,
     "badge": "Value",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
-    "description": "College Ruled Notebook Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1400&q=85",
+    "description": "College Ruled Notebook Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-NBK-003",
@@ -199,9 +235,9 @@
     "oldPrice": 14.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
-    "description": "Hardcover Study Journal is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1400&q=85",
+    "description": "Hardcover Study Journal is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-NBK-004",
@@ -211,9 +247,9 @@
     "oldPrice": 12.99,
     "badge": "Colorful",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
-    "description": "Bright Notes 5-Pack is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1400&q=85",
+    "description": "Bright Notes 5-Pack is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-NBK-005",
@@ -223,9 +259,21 @@
     "oldPrice": 11.99,
     "badge": "Study",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1200&q=84",
-    "description": "Project Planner Notebook is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1400&q=85",
+    "description": "Project Planner Notebook is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-NBK-006",
+    "name": "Grid Study Notebook",
+    "category": "Notebooks",
+    "price": 7.99,
+    "oldPrice": 9.99,
+    "badge": "New",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1400&q=85",
+    "description": "Grid Study Notebook is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BTL-001",
@@ -234,10 +282,10 @@
     "price": 24.99,
     "oldPrice": 29.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
-    "description": "HydroPop Insulated Bottle is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1400&q=85",
+    "description": "HydroPop Insulated Bottle is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BTL-002",
@@ -247,9 +295,9 @@
     "oldPrice": 27.99,
     "badge": "Popular",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
-    "description": "Campus Stainless Tumbler is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1400&q=85",
+    "description": "Campus Stainless Tumbler is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BTL-003",
@@ -259,9 +307,9 @@
     "oldPrice": 22.99,
     "badge": "Kids",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
-    "description": "Mini Sip Kids Bottle is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1400&q=85",
+    "description": "Mini Sip Kids Bottle is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BTL-004",
@@ -271,9 +319,21 @@
     "oldPrice": 24.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=84",
-    "description": "StudyBreak Travel Mug is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1400&q=85",
+    "description": "StudyBreak Travel Mug is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-BTL-005",
+    "name": "FlipSeal Sports Bottle",
+    "category": "Bottles & Tumblers",
+    "price": 23.99,
+    "oldPrice": 28.99,
+    "badge": "Featured",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1400&q=85",
+    "description": "FlipSeal Sports Bottle is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BOK-001",
@@ -283,9 +343,9 @@
     "oldPrice": 18.99,
     "badge": "Essential",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
-    "description": "Student Dictionary is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1400&q=85",
+    "description": "Student Dictionary is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BOK-002",
@@ -295,9 +355,9 @@
     "oldPrice": 15.99,
     "badge": "Study",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
-    "description": "Math Practice Workbook is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1400&q=85",
+    "description": "Math Practice Workbook is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BOK-003",
@@ -306,10 +366,10 @@
     "price": 13.99,
     "oldPrice": 17.99,
     "badge": "Featured",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
-    "description": "Science Explorer Guide is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1400&q=85",
+    "description": "Science Explorer Guide is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BOK-004",
@@ -319,9 +379,9 @@
     "oldPrice": 12.99,
     "badge": "Creative",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
-    "description": "Creative Writing Journal is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1400&q=85",
+    "description": "Creative Writing Journal is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-BOK-005",
@@ -331,9 +391,9 @@
     "oldPrice": 19.99,
     "badge": "Study",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1200&q=84",
-    "description": "World History Study Guide is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1400&q=85",
+    "description": "World History Study Guide is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-GEO-001",
@@ -343,9 +403,9 @@
     "oldPrice": 4.99,
     "badge": "Value",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
-    "description": "Flexi 12-inch Ruler is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1500&q=85",
+    "description": "Flexi 12-inch Ruler is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-GEO-002",
@@ -354,10 +414,10 @@
     "price": 7.99,
     "oldPrice": 10.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
-    "description": "Clear Geometry Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1500&q=85",
+    "description": "Clear Geometry Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-GEO-003",
@@ -367,9 +427,9 @@
     "oldPrice": 6.99,
     "badge": "Popular",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
-    "description": "Protractor & Angle Kit is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1500&q=85",
+    "description": "Protractor & Angle Kit is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-GEO-004",
@@ -379,21 +439,21 @@
     "oldPrice": 7.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
-    "description": "30cm Metal Ruler is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1500&q=85",
+    "description": "30cm Metal Ruler is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-GEO-005",
-    "name": "Student Calculator",
+    "name": "Scientific Calculator",
     "category": "Geometry & Tools",
-    "price": 12.99,
-    "oldPrice": 16.99,
+    "price": 14.99,
+    "oldPrice": 18.99,
     "badge": "Study",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
-    "description": "Student Calculator is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1500&q=85",
+    "description": "Scientific Calculator is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-PEN-001",
@@ -402,10 +462,10 @@
     "price": 11.99,
     "oldPrice": 15.99,
     "badge": "Best Seller",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "SnapZip Pencil Case is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "SnapZip Pencil Case is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-PEN-002",
@@ -415,9 +475,9 @@
     "oldPrice": 18.99,
     "badge": "Popular",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "Double Deck Organizer is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "Double Deck Organizer is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-PEN-003",
@@ -427,9 +487,9 @@
     "oldPrice": 11.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "Clear Study Pouch is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "Clear Study Pouch is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-PEN-004",
@@ -439,9 +499,9 @@
     "oldPrice": 17.99,
     "badge": "Organize",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=84",
-    "description": "Canvas Pencil Roll is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1400&q=85",
+    "description": "Canvas Pencil Roll is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-ART-001",
@@ -451,9 +511,9 @@
     "oldPrice": 15.99,
     "badge": "Creative",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
-    "description": "ColorBurst Colored Pencils is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1400&q=85",
+    "description": "ColorBurst Colored Pencils is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-ART-002",
@@ -463,9 +523,9 @@
     "oldPrice": 17.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
-    "description": "Watercolor Pocket Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Watercolor Pocket Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-ART-003",
@@ -474,10 +534,10 @@
     "price": 16.99,
     "oldPrice": 21.99,
     "badge": "Featured",
-    "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
-    "description": "Sketch Starter Kit is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Sketch Starter Kit is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-ART-004",
@@ -487,9 +547,21 @@
     "oldPrice": 9.99,
     "badge": "Value",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=84",
-    "description": "Craft Scissors Set is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Craft Scissors Set is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-ART-005",
+    "name": "Study Sketchbook",
+    "category": "Art Supplies",
+    "price": 9.99,
+    "oldPrice": 12.99,
+    "badge": "Popular",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1400&q=85",
+    "description": "Study Sketchbook is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-TCH-001",
@@ -499,9 +571,9 @@
     "oldPrice": 19.99,
     "badge": "Smart Pick",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=84",
-    "description": "CableKeeper Tech Pouch is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1800&q=85",
+    "description": "CableKeeper Tech Pouch is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-TCH-002",
@@ -511,9 +583,9 @@
     "oldPrice": 28.99,
     "badge": "New",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1800&q=84",
-    "description": "Tablet Sleeve is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1800&q=85",
+    "description": "Tablet Sleeve is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   },
   {
     "sku": "PK-TCH-003",
@@ -523,8 +595,20 @@
     "oldPrice": 18.99,
     "badge": "Organize",
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1600&q=84",
-    "description": "Desk Organizer Pouch is a practical school-day essential designed for organized, active routines.",
-    "details": "Designed for everyday student use • easy-care materials • practical storage"
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1800&q=85",
+    "description": "Desk Organizer Pouch is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
+  },
+  {
+    "sku": "PK-TCH-004",
+    "name": "Compact Study Stand",
+    "category": "Tech Accessories",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "badge": "Featured",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1800&q=85",
+    "description": "Compact Study Stand is designed to keep school days organized, practical and ready to go.",
+    "details": "Durable everyday materials • easy-care finish • designed for student routines"
   }
 ]

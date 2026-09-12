@@ -1,34 +1,58 @@
 # PACKLY School
 
-Colorful school-lifestyle ecommerce storefront with **44 demo products**.
+A colorful school-lifestyle storefront with **51 demo products**.
 
-## This V2 specifically fixes the previous build
+## V3 rebuild
 
-- Product cards use realistic photography instead of emoji illustrations.
-- The main site background is a soft blue-gray instead of plain white.
-- The homepage uses a stronger photo-led hero and editorial sections.
-- Category cards use photography.
-- Product detail and cart views use photography.
-- Search, category filters, sorting, Quick View, Wishlist and Shopping Bag remain included.
+This version removes emoji-based product imagery and uses realistic photography for backpacks, school supplies, books, bottles, study spaces and creative supplies. The overall page background is a soft blue-gray instead of plain white, with a stronger navy/pink/yellow visual system.
 
 ## Departments
 
 Backpacks • Lunch Bags • Pens & Writing • Notebooks • Bottles & Tumblers • Books • Geometry & Tools • Pencil Cases • Art Supplies • Tech Accessories
 
+## Storefront features
+
+- Photo-led hero
+- Realistic product photography
+- Category navigation
+- 51 demo products
+- Search
+- Category filters
+- Price and rating sorting
+- Quick View
+- Wishlist
+- Shopping Bag
+- Quantity controls
+- Product detail pages
+- Collections
+- Back-to-School guide
+- School Kits
+- Deals
+- New Arrivals
+- FAQ
+- Shipping
+- Returns
+- Contact
+- Favicon
+- Manifest
+- Sitemap
+- Responsive mobile layout
+- GitHub Pages-ready structure
+
 ## GitHub Pages
 
-Upload every file to the root of the `packly-school` repository.
+Upload every file into the root of `packly-school`.
 
-Expected address:
+Expected URL:
 
 `https://brun-com.github.io/packly-school/`
 
-## Images
+## Photography
 
-The storefront uses Unsplash image URLs for the realistic photography. The logo is bundled locally. Verify the current image license/usage terms before commercial publication.
+The storefront references Unsplash photography for the visual catalog. Review the current Unsplash terms and license before commercial publication.
 
 ## Commercial note
 
-Product names, prices, ratings, reviews and descriptions are demonstration content until replaced with verified live business data. Checkout is a front-end demo until a real payment, inventory and fulfillment system is connected.
+Product names, prices, ratings, reviews and descriptions are demonstration content. Replace them with verified business information before launch. Checkout is a front-end demo until real payment, inventory and fulfillment systems are connected.
 
 © 2026 PACKLY School. All rights reserved.
