@@ -39,6 +39,12 @@ Backpacks • Lunch Bags • Pens & Writing • Notebooks • Bottles & Tumblers
 - Responsive mobile layout
 - GitHub Pages-ready structure
 
+## Customer Support
+
+- Email: `info@zonde.ca`
+- Phone: `1-800-555-0199`
+- Support hours: Monday–Friday, 9:00 AM–6:00 PM
+
 ## GitHub Pages
 
 Upload every file into the root of `packly-school`.
